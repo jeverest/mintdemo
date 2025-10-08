@@ -9,7 +9,7 @@ This is an update from Joe.  How does this work?  How can I link it to my code b
   style={{ width:"25%" }}
 />
 
-nice poop logo
+nice poop logo is awesome
 
 Use the starter kit to get your docs deployed and ready to customize.
 
