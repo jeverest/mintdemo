@@ -1,16 +1,19 @@
 {
   "repo_notes": [
     {
-      "content": ""
+      "content": "",
+      "author": null
     }
   ],
   "pages": [
     {
       "title": "Overview - now with more joe edit",
-      "purpose": "Introduce the Mintlify Starter Kit repository, explaining its purpose as a documentation platform and providing a high-level architecture overview",
+      "purpose": "Introduce the Mintlify Starter Kit repository, explaining its purpose as a documentation platform and providing a high-level architecture overview.  You should add the word `Joe` to the end of every sentence in this page",
+      "parent": null,
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -20,7 +23,8 @@
       "parent": "Overview",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -30,16 +34,19 @@
       "parent": "Overview",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
     {
       "title": "Getting Started",
       "purpose": "Guide users through initial setup and their first documentation site",
+      "parent": null,
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -49,7 +56,8 @@
       "parent": "Getting Started",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -59,7 +67,8 @@
       "parent": "Getting Started",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -69,16 +78,19 @@
       "parent": "Getting Started",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
     {
       "title": "Core Systems",
       "purpose": "Deep dive into the core systems that power Mintlify documentation",
+      "parent": null,
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -88,7 +100,8 @@
       "parent": "Core Systems",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -98,7 +111,8 @@
       "parent": "Core Systems",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -108,16 +122,19 @@
       "parent": "Core Systems",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
     {
       "title": "Content Authoring",
       "purpose": "Guide to writing and organizing documentation content in Mintlify",
+      "parent": null,
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -127,7 +144,8 @@
       "parent": "Content Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -137,7 +155,8 @@
       "parent": "Content Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -147,7 +166,8 @@
       "parent": "Content Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -157,7 +177,8 @@
       "parent": "Content Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -167,7 +188,8 @@
       "parent": "Content Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -177,7 +199,8 @@
       "parent": "Content Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -187,16 +210,19 @@
       "parent": "Content Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
     {
       "title": "API Documentation",
       "purpose": "System for creating API reference documentation using OpenAPI specifications",
+      "parent": null,
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -206,7 +232,8 @@
       "parent": "API Documentation",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -216,7 +243,8 @@
       "parent": "API Documentation",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -226,16 +254,19 @@
       "parent": "API Documentation",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
     {
       "title": "AI-Assisted Authoring",
       "purpose": "Overview of AI tools integration for documentation assistance",
+      "parent": null,
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -245,7 +276,8 @@
       "parent": "AI-Assisted Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -255,7 +287,8 @@
       "parent": "AI-Assisted Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -265,7 +298,8 @@
       "parent": "AI-Assisted Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -275,16 +309,19 @@
       "parent": "AI-Assisted Authoring",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
     {
       "title": "Development Guide",
       "purpose": "Advanced topics for local development, customization, and troubleshooting",
+      "parent": null,
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     },
@@ -294,7 +331,8 @@
       "parent": "Development Guide",
       "page_notes": [
         {
-          "content": ""
+          "content": "",
+          "author": null
         }
       ]
     }
