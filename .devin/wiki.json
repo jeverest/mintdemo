@@ -1,0 +1,302 @@
+{
+  "repo_notes": [
+    {
+      "content": ""
+    }
+  ],
+  "pages": [
+    {
+      "title": "Overview - now with more joe edit",
+      "purpose": "Introduce the Mintlify Starter Kit repository, explaining its purpose as a documentation platform and providing a high-level architecture overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "System Architecture",
+      "purpose": "Explain the overall system architecture including development environment, deployment pipeline, and key components",
+      "parent": "Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Key Components",
+      "purpose": "Detail the major components: CLI, configuration files, content layer, and deployment system",
+      "parent": "Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Getting Started",
+      "purpose": "Guide users through initial setup and their first documentation site",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Installation",
+      "purpose": "Walk through installing the Mintlify CLI and setting up prerequisites",
+      "parent": "Getting Started",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Quickstart Guide",
+      "purpose": "Provide a step-by-step guide to create and deploy your first documentation site",
+      "parent": "Getting Started",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Basic Configuration",
+      "purpose": "Explain initial docs.json configuration and basic customization options",
+      "parent": "Getting Started",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Core Systems",
+      "purpose": "Deep dive into the core systems that power Mintlify documentation",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Mintlify CLI",
+      "purpose": "Comprehensive guide to the mint CLI tool, its commands, and usage patterns",
+      "parent": "Core Systems",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Deployment Pipeline",
+      "purpose": "Explain the GitHub App integration and automated deployment workflow",
+      "parent": "Core Systems",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Configuration System",
+      "purpose": "Detailed documentation of docs.json structure, properties, and configuration options",
+      "parent": "Core Systems",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Content Authoring",
+      "purpose": "Guide to writing and organizing documentation content in Mintlify",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "MDX Basics",
+      "purpose": "Introduction to MDX format and how Mintlify uses it for documentation",
+      "parent": "Content Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Markdown Syntax",
+      "purpose": "Reference guide for supported Markdown syntax including titles, text formatting, and links",
+      "parent": "Content Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Code Blocks",
+      "purpose": "How to add inline code and code blocks with syntax highlighting",
+      "parent": "Content Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Images and Media",
+      "purpose": "Guide to embedding images, videos, and other media in documentation",
+      "parent": "Content Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Reusable Snippets",
+      "purpose": "How to create and use reusable content snippets to maintain DRY principles",
+      "parent": "Content Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Navigation Structure",
+      "purpose": "How to configure and organize documentation navigation in docs.json",
+      "parent": "Content Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Mintlify Components",
+      "purpose": "Reference for custom Mintlify components like Cards, Tabs, Accordions, and Callouts",
+      "parent": "Content Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "API Documentation",
+      "purpose": "System for creating API reference documentation using OpenAPI specifications",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "API Reference System",
+      "purpose": "Overview of the API documentation system and setup methods (OpenAPI vs MDX)",
+      "parent": "API Documentation",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "OpenAPI Specification",
+      "purpose": "Detailed guide to the OpenAPI specification structure and the Plant Store API example",
+      "parent": "API Documentation",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Endpoint Documentation",
+      "purpose": "How individual API endpoints are documented with examples from the Plant Store API",
+      "parent": "API Documentation",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "AI-Assisted Authoring",
+      "purpose": "Overview of AI tools integration for documentation assistance",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Documentation Standards",
+      "purpose": "Shared documentation standards and writing principles enforced by AI tools",
+      "parent": "AI-Assisted Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Cursor Setup",
+      "purpose": "Configure Cursor editor with Mintlify rules and component reference",
+      "parent": "AI-Assisted Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Claude Code Setup",
+      "purpose": "Install and configure Claude Code CLI with CLAUDE.md rules file",
+      "parent": "AI-Assisted Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Windsurf Setup",
+      "purpose": "Configure Windsurf editor with documentation standards and rules",
+      "parent": "AI-Assisted Authoring",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Development Guide",
+      "purpose": "Advanced topics for local development, customization, and troubleshooting",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Local Development",
+      "purpose": "Working with the local preview server, port configuration, and link validation",
+      "parent": "Development Guide",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    }
+  ]
+}
